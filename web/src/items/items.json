@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Aragorn",
+        "level": 100,
+        "imgURL": "/imgs/aragorn.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Balrog",
+        "level": 100,
+        "imgURL": "/imgs/balrog.jpeg"
+        
+    },
+    {
+        "id": 3,
+        "name": "Gollum",
+        "level": 100,
+        "imgURL": "/imgs/gollum2.jpeg"
+        
+    },
+    {
+        "id": 4,
+        "name": "Gandalf",
+        "level": 100,
+        "imgURL": "/imgs/gandalf.jpeg"
+        
+    },
+    {
+        "id": 5,
+        "name": "Sauron",
+        "level": 100,
+        "imgURL": "/imgs/sauron.jpeg"
+        
+    },
+    {
+        "id": 6,
+        "name": "Legalos",
+        "level": 100,
+        "imgURL": "/imgs/legalos.jpeg"
+        
+    }
+
+]
